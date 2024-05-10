@@ -3,11 +3,14 @@
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-The output of predictor didn't match that of the expected format for submission. Did necessary changes to the data frame column datatypes.
+The output of predictor didn't match that of the expected format for submission. Did necessary changes to the data frame column datatypes, utilized 'count' label while training. 
 
 ### What was the top-ranked model that performed?
 The top-ranked model was the one with new additional features and no hyperparameter tuning.
-
+|best model|score|
+|--|--|
+|WeightedEnsemble_L3|-30.290553|
+   
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
 EDA revealed insights into feature distribution and relationships. Additional features were created using hot encoding. 
