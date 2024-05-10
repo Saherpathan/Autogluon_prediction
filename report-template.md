@@ -17,11 +17,26 @@ EDA revealed insights into feature distribution and relationships. Additional fe
 
 ### How much better did your model perform after adding additional features and why do you think that is?
 The model improved significantly, as newly added features provided more relevant and precise information.
-Percentage Increase= (New Score−Initial Score)/|Initial Score| ×100%
-For additional features= 
+Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
+   - Initial Score: -55.031538
+   - Score after adding features: -30.290553
+   - Percentage Increase=
+     (-30.290553 - (-55.031538))/55.031538 * 100
+   - Percentage Increase= 24.740985/55.031538 * 100
+     
+     ### approx 44.97 %
+     
 ## Hyperparameter tuning
 ### How much better did your model perform after trying different hyperparameters?
 Comparatively much better and more stable.
+Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
+   - Initial Score: -55.031538
+   - Score after trying hyperparameters: -30.290553
+   - Percentage Increase=
+     (-30.290553 - (-55.031538))/55.031538 * 100
+   - Percentage Increase= 24.740985/55.031538 * 100
+     
+     ### approx 44.97 %
 ### If you were given more time with this dataset, where do you think you would spend more time?
 I would further focus on feature engineering processes to extract more meaningful data.
 
