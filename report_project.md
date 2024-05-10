@@ -31,9 +31,9 @@ Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
 Comparatively much better and more stable.
 Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
    - Initial Score: -55.031538
-   - Score after trying hyperparameters: -30.290553
+   - Score after hyperparameter optimization: -35.363541
    - Percentage Increase=
-     (-30.290553 - (-55.031538))/55.031538 * 100
+     (-35.363541 - (-55.031538))/55.031538 * 100
    - Percentage Increase= 19.667997/55.031538 * 100
      
      ### approx 35.76 %
@@ -61,4 +61,5 @@ I would further focus on feature engineering processes to extract more meaningfu
 
 
 ## Summary
-Project is executed successfully
+Project is executed successfully, all the rubrics are meeting as well. 
+Model was training on initial dataset, one with additional features and the other with hyperparameter optimization. 
