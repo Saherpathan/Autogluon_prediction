@@ -17,7 +17,8 @@ EDA revealed insights into feature distribution and relationships. Additional fe
 
 ### How much better did your model perform after adding additional features and why do you think that is?
 The model improved significantly, as newly added features provided more relevant and precise information.
-
+Percentage Increase= (New Score−Initial Score)/|Initial Score| ×100%
+For additional features= 
 ## Hyperparameter tuning
 ### How much better did your model perform after trying different hyperparameters?
 Comparatively much better and more stable.
