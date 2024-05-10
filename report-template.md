@@ -34,9 +34,10 @@ Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
    - Score after trying hyperparameters: -30.290553
    - Percentage Increase=
      (-30.290553 - (-55.031538))/55.031538 * 100
-   - Percentage Increase= 24.740985/55.031538 * 100
+   - Percentage Increase= 19.667997/55.031538 * 100
      
-     ### approx 44.97 %
+     ### approx 35.76 %
+     
 ### If you were given more time with this dataset, where do you think you would spend more time?
 I would further focus on feature engineering processes to extract more meaningful data.
 
