@@ -16,8 +16,9 @@ The top-ranked model was the one with new additional features and no hyperparame
 EDA revealed insights into feature distribution and relationships. Additional features were created using hot encoding. 
 
 ### How much better did your model perform after adding additional features and why do you think that is?
-The model improved significantly, as newly added features provided more relevant and precise information.
-Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
+The model improved significantly, as newly added features provided more relevant and precise information. 
+
+*Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%*
    - Initial Score: -55.031538
    - Score after adding features: -30.290553
    - Percentage Increase=
@@ -29,7 +30,8 @@ Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
 ## Hyperparameter tuning
 ### How much better did your model perform after trying different hyperparameters?
 Comparatively much better and more stable.
-Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%
+
+*Percentage Increase= (New Score−Initial Score)/|Initial Score| * 100%*
    - Initial Score: -55.031538
    - Score after hyperparameter optimization: -35.363541
    - Percentage Increase=
