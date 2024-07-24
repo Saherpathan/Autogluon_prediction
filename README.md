@@ -1,6 +1,6 @@
 # Predict Bike Sharing Demand with AutoGluon
 
-## AWS Machine Learning Engineer Nanodegree
+## I have accomplished this project as a part of AWS Machine Learning Engineer Nanodegree
 
 ## Overview
 
