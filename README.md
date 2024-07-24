@@ -6,7 +6,7 @@
 
 
 ## Getting Started
-* Clone this template repository `git clone git@github.com:udacity/nd009t-c1-intro-to-ml-project-starter.git` into AWS Sagemaker Studio (or local development).
+* Clone this template repository `[git clone git@github.com:udacity/nd009t-c1-intro-to-ml-project-starter.git](https://github.com/Saherpathan/Autogluon_prediction.git)` into AWS Sagemaker Studio (or local development).
 
 <img src="img/sagemaker-studio-git1.png" alt="sagemaker-studio-git1.png" width="500"/>
 <img src="img/sagemaker-studio-git2.png" alt="sagemaker-studio-git2.png" width="500"/>
